@@ -5,7 +5,7 @@
 
 <div>
 <a href="https://github.com/marlonsiqueira">
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=marlonsiqueira&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=marlonsiqueira&show_icons=true&theme=tokyonight&include_all_commits=false&count_private=true"/>
 </div>
 <div style="display: inline_block"><br>
   <img align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="40" height="40"/>
